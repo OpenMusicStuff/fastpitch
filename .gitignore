@@ -1,0 +1,6 @@
+build*/
+bench/third_party/
+*.exe
+*.obj
+*.pdb
+__pycache__/
